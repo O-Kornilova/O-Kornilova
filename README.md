@@ -8,7 +8,6 @@ ITEA, other skills taught by myself.
 + html5, css4;
 + Less;
 + Javascript;
-+ Vue.js;
 + Bootstrap 4, 5;
 + Github;
 + WordPress;
