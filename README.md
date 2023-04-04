@@ -1,13 +1,13 @@
 ### My name is Aleksandra Kornilova and I'm a front developer. 
-I have been a finance analyst more than 9 years, mainly in leasing companies.
-2 years ago I tried to make a web-site just for fun and suddenly it happened. HTML, CSS and JS I learned in courses
-ITEA, other skills taught by myself. 
+With 9+ years of experience in finance and leasing, I am a detail-oriented analyst with a strong analytical mindset. Now, I seek a new challenge in front-end development. Proficient in HTML5, CSS3, and JavaScript, I am confident in creating responsive web designs. Actively learning React, I keep up-to-date with latest technologies. Additionally, I possess excellent communication and collaboration skills, and my proficiency in English allows me to work effectively with diverse clients and team members. As I transition into front-end development, I am eager to continue learning and growing, committed to putting in the effort to excel in a junior role.. 
 
 ***
 ####Skills
 + html5, css4;
 + Less;
 + Javascript;
++ React;
++ Redux;
 + Bootstrap 4, 5;
 + Github;
 + WordPress;
