@@ -19,7 +19,7 @@ As I continue to grow my skills and experience in front-end development, I am ea
 + BEM
 + Adobe Photoshop/Avocode/Figma/Adobe Illustrator
 ***
-[CV](
+[My resume as a react application](
 https://my-cv-5ac93.web.app/)
 ***
 ### Follow me
