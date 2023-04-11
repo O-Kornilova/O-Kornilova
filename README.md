@@ -19,7 +19,9 @@ As I continue to grow my skills and experience in front-end development, I am ea
 + BEM
 + Adobe Photoshop/Avocode/Figma/Adobe Illustrator
 ***
-
+[CV](
+https://my-cv-5ac93.web.app/)
+***
 ### Follow me
 [Telegram](https://t.me/kornilovaalex)
 [Gmail](aleksandra.kopachovets.ne@gmail.com)
