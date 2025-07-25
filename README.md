@@ -1,9 +1,9 @@
 ### My name is Oleksandra Kornilova and I'm a front developer. 
-After working as a junior HTML developer for 8 months, I have gained valuable experience and developed a strong skill set in web development. I have become proficient in HTML, CSS, and JavaScript, and I have gained a keen eye for detail and a strong analytical mindset. During my time as a junior developer, I have learned to create high-quality and responsive web designs that meet the needs of today's users.
-
-In addition to my experience in HTML development, I have also learned React, one of the most popular front-end frameworks. I have become confident in using React to create dynamic and efficient web applications. With my technical expertise, combined with excellent communication and collaboration skills, I am confident in my ability to work effectively in a team environment and deliver high-quality projects on time.
-
-As I continue to grow my skills and experience in front-end development, I am eager to take on new challenges and explore new opportunities in the field. I am committed to continuously learning and staying up-to-date with the latest technologies and trends to become a skilled and valuable member of any development team. 
+I am a Frontend Developer with 3 years of experience in building responsive landing pages and working with media buying teams.
+I use technologies like React, TypeScript, JavaScript, HTML, CSS (SCSS), Bootstrap, PHP, and jQuery.
+I’m skilled at adapting designs for different devices, connecting forms with tracking systems (TDS), and optimizing websites for better performance.
+I enjoy learning new tools, solving problems, and working on projects that help businesses grow.
+I have experience working with international clients, and I’m improving my English to communicate even better with teams around the world.
 
 ***
 ### Skills
