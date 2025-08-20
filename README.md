@@ -6,18 +6,25 @@ I enjoy learning new tools, solving problems, and working on projects that help 
 I have experience working with international clients, and I’m improving my English to communicate even better with teams around the world.
 
 ***
-### Skills
-+ HTML
-+ CSS, SCSS
-+ Javascript
-+ React
-+ Redux
-+ Typescript
-+ Bootstrap 4, 5
-+ Github
-+ WordPress
-+ BEM
-+ Adobe Photoshop/Avocode/Figma/Adobe Illustrator
+### Frontend Development
+
+HTML, CSS, SCSS, JavaScript, React, React Hooks, Redux, TypeScript, Bootstrap, BEM
+
+### Backend Development
+
+Node.js (Express.js, REST API), PHP (Basic Knowledge)
+
+### Development Tools
+
+GitHub
+
+### CMS & Platforms
+
+WordPress, Joomla, Odoo
+
+### Design & Prototyping
+
+Adobe Photoshop, Avocode, Figma, Adobe Illustrator
 ***
 [My resume as a react application](
 https://my-cv-5ac93.web.app/)
