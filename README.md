@@ -28,10 +28,11 @@ Currently seeking **React Developer position** in product-oriented companies whe
 ---
 
 ## 🔥 Featured Projects
-
 👇 Check out pinned repositories below for examples of my work
 
-*[Gluva](https://github.com/O-Kornilova/Gluva)*
+**[Gluva](https://github.com/O-Kornilova/Gluva)** — Mushroom farm e-commerce platform. React, TypeScript, Redux Toolkit, Firebase, React Hook Form. Full-featured: product catalog, cart, checkout, authentication.
+
+**[Combucha Shop](https://github.com/O-Kornilova/combucha-shop)** — Kombucha e-commerce platform (collaborative project). React, Redux Toolkit, REST API. Frontend by me, backend by [@brodovoi](https://github.com/brodovoi).
 
 ---
 
@@ -51,7 +52,7 @@ Currently seeking **React Developer position** in product-oriented companies whe
 📱 [Telegram](https://t.me/kornilovaalex)  
 📍 Kyiv, Ukraine (Remote-friendly)
 
-📄 [View Full Resume](https://drive.google.com/file/d/1Uuy4Q39d9NZAC0CE2k67f0oDwjHvysUA/view?usp=sharing)
+📄 [View Full Resume](https://drive.google.com/file/d/10_k5_JAkQ-WlA_gL9AOL5MT9kW-Doz1U/view?usp=sharing)
 
 ---
 
