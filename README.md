@@ -30,9 +30,15 @@ Currently seeking **React Developer position** in product-oriented companies whe
 ## 🔥 Featured Projects
 👇 Check out pinned repositories below for examples of my work
 
-**[Gluva](https://github.com/O-Kornilova/Gluva)** — Mushroom farm e-commerce platform. React, TypeScript, Redux Toolkit, Firebase, React Hook Form. Full-featured: product catalog, cart, checkout, authentication.
+**[Gluva](https://github.com/O-Kornilova/Gluva)** — Mushroom farm e-commerce platform. 
+React, TypeScript, Redux Toolkit, Firebase, React Hook Form. 
+[Live Demo](https://gluva.vercel.app)
 
-**[Combucha Shop](https://github.com/O-Kornilova/combucha-shop)** — Kombucha e-commerce platform (collaborative project). React, Redux Toolkit, REST API. Frontend by me, backend by [@brodovoi](https://github.com/brodovoi).
+**[Combucha Shop](https://github.com/O-Kornilova/combucha-shop)** — Full-stack kombucha e-commerce (collaborative). 
+React, Redux Toolkit, Node.js, MongoDB. 
+Deployed React + Node.js + MongoDB on Vercel + Render. 
+Frontend by me, backend by [@brodovoi](https://github.com/brodovoi). 
+[Live Demo](https://combucha-shop-frontend.vercel.app)
 
 ---
 
