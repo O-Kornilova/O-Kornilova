@@ -38,9 +38,10 @@ React • Vite • Tailwind • Node.js • Express • PostgreSQL • Prisma �
 Custom REST API, JWT auth, admin panel with order & product management.  
 [Live Demo](https://gluva.vercel.app)
 
-**[Kombucha Shop](https://github.com/O-Kornilova/combucha-shop)** — Full-stack kombucha e-commerce (collaborative).  
-React • Redux Toolkit • Node.js • MongoDB  
-Frontend by me, backend by [@brodovoi](https://github.com/brodovoi).  
+**[Kombucha Shop](https://github.com/O-Kornilova/combucha-shop)** — Full-stack kombucha e-commerce (collaborative team project).  
+React 19 • Redux Toolkit • Node.js • Express • MongoDB Atlas  
+**My contribution:** frontend development, SEO & Open Graph meta tags, MongoDB Atlas setup, Vercel + Render deployment configuration.  
+Backend by [@brodovoi](https://github.com/brodovoi).  
 [Live Demo](https://combucha-shop-frontend.vercel.app)
 
 ---
