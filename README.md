@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Oleksandra
-
 **Frontend Developer** | React • TypeScript • Next.js
 
 Currently seeking **React Developer position** in product-oriented companies where I can build meaningful features and grow technically.
@@ -20,24 +19,28 @@ Currently seeking **React Developer position** in product-oriented companies whe
 
 ## 💻 Tech Stack
 
-**Core:** React • TypeScript • Next.js • Redux  
-**Styling:** Tailwind CSS • SCSS • CSS-in-JS  
-**Tools:** Vite • Git • Docker • Vercel  
-**APIs:** REST • form handling • third-party integrations
+**Core:** React • TypeScript • Next.js • Redux Toolkit  
+**Styling:** Tailwind CSS • SCSS  
+**Backend:** Node.js • Express • PostgreSQL • Prisma • MongoDB  
+**Auth:** JWT • Firebase Auth  
+**Tools:** Vite • Git • Docker • Vercel • Railway  
+**Testing:** Vitest • React Testing Library  
+**APIs:** REST • Nova Poshta API • third-party integrations
 
 ---
 
 ## 🔥 Featured Projects
+
 👇 Check out pinned repositories below for examples of my work
 
-**[Gluva](https://github.com/O-Kornilova/Gluva)** — Mushroom farm e-commerce platform. 
-React, TypeScript, Redux Toolkit, Firebase, React Hook Form. 
+**[Gluva](https://github.com/O-Kornilova/Gluva)** — Full-stack mushroom farm e-commerce.  
+React • Vite • Tailwind • Node.js • Express • PostgreSQL • Prisma • JWT  
+Custom REST API, JWT auth, admin panel with order & product management.  
 [Live Demo](https://gluva.vercel.app)
 
-**[Combucha Shop](https://github.com/O-Kornilova/combucha-shop)** — Full-stack kombucha e-commerce (collaborative). 
-React, Redux Toolkit, Node.js, MongoDB. 
-Deployed React + Node.js + MongoDB on Vercel + Render. 
-Frontend by me, backend by [@brodovoi](https://github.com/brodovoi). 
+**[Kombucha Shop](https://github.com/O-Kornilova/combucha-shop)** — Full-stack kombucha e-commerce (collaborative).  
+React • Redux Toolkit • Node.js • MongoDB  
+Frontend by me, backend by [@brodovoi](https://github.com/brodovoi).  
 [Live Demo](https://combucha-shop-frontend.vercel.app)
 
 ---
@@ -46,7 +49,6 @@ Frontend by me, backend by [@brodovoi](https://github.com/brodovoi).
 
 - Server Components & Next.js App Router
 - Advanced TypeScript patterns
-- Testing with Jest & React Testing Library
 - Design systems with Storybook
 
 ---
@@ -56,12 +58,9 @@ Frontend by me, backend by [@brodovoi](https://github.com/brodovoi).
 📧 aleksandra.kopachovets.ne@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/oleksandra-kornilova-b54601207/)  
 📱 [Telegram](https://t.me/kornilovaalex)  
-📍 Kyiv, Ukraine (Remote-friendly)
-
+📍 Kyiv, Ukraine (Remote-friendly)  
 📄 [View Full Resume](https://drive.google.com/file/d/10_k5_JAkQ-WlA_gL9AOL5MT9kW-Doz1U/view?usp=sharing)
 
 ---
 
 💙💛 Open to React Developer opportunities | Product companies preferred
-```
-
